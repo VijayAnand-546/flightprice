@@ -15,7 +15,7 @@
 
 Link: [https://flight-price-prediction-api.herokuapp.com/]
 ## Overview
-This is a Flask web application which predicts price of Flight ticket.
+This is a Data Science project which predicts price of Flight ticket.
 
 ## Motivation
 I started to learn Data Science from my first year of engineering to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
